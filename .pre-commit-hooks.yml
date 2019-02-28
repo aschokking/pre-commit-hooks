@@ -1,0 +1,5 @@
+-   id: dont-commit-this
+    name: Dont commit this
+    description: 'Ensure DONT COMMIT THIS doesnt appear in any files'
+    entry: 'DONT COMMIT THIS'
+    language: pygrep
